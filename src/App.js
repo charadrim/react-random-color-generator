@@ -13,7 +13,7 @@ export default function App() {
           color: hexColor,
         }}
       >
-        {hexColor}
+        Generated Color: {hexColor}
       </div>
       <br />
       <button onClick={() => setHexColor(randomColor())}>Generate</button>
