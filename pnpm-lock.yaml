@@ -1,6 +1,9 @@
 lockfileVersion: '6.0'
 
 dependencies:
+  '@types/tinycolor2':
+    specifier: ^1.4.3
+    version: 1.4.3
   '@upleveled/react-scripts':
     specifier: 5.0.11
     version: 5.0.11(eslint@8.49.0)(react@18.2.0)(typescript@5.2.2)
@@ -2589,6 +2592,10 @@ packages:
     dependencies:
       '@types/jest': 29.5.4
     dev: true
+
+  /@types/tinycolor2@1.4.3:
+    resolution: {integrity: sha512-Kf1w9NE5HEgGxCRyIcRXR/ZYtDv0V8FVPtYHwLxl0O+maGX0erE77pQlD0gpP+/KByMZ87mOA79SjifhSB3PjQ==}
+    dev: false
 
   /@types/trusted-types@2.0.3:
     resolution: {integrity: sha512-NfQ4gyz38SL8sDNrSixxU2Os1a5xcdFxipAFxYEuLUlvU2uDwS4NUpsImcf1//SlWItCVMMLiylsxbmNMToV/g==}
