@@ -9,6 +9,8 @@
     "react-dom": "^18.2.0",
     "tinycolor2": "^1.6.0"
   },
+  "main": "index.js",
+  "types": "index.d.ts",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
