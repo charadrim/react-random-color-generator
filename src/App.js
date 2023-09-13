@@ -24,7 +24,7 @@ export default function App() {
           fontSize: '30px',
           color: '#000',
           textShadow: '2px 2px 4px #fff',
-          backgroundColor: newColor,
+          backgroundColor: color,
           display: 'flex',
           flexDirection: 'column',
           justifyContent: 'center',
@@ -38,7 +38,7 @@ export default function App() {
             textAlign: 'center',
           }}
         >
-          {newColor}
+          {color}
         </div>
       </div>
       <button

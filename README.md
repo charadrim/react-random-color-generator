@@ -4,7 +4,3 @@ Design and develop a random color generator web application using React. This ap
 /
 -A button with the exact text Generate will cause a new color to be generated when it is clicked
 -Once a color is generated, update the background color of a div which contains the exact text Generated Color: <background color hex code> (the background color and the hex code must match)
-
--Create a title explaining what it is
--Create a button that says generate
--above the button
