@@ -31,15 +31,7 @@ export default function App() {
           alignItems: 'center',
         }}
       >
-        Generated Color:
-        <br />
-        <div
-          style={{
-            textAlign: 'center',
-          }}
-        >
-          {color}
-        </div>
+        Generated Color: {color}
       </div>
       <button
         style={{ marginTop: '20px' }}
